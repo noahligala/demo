@@ -1,2 +1,2 @@
 # demo
-my first demo repo
+This has been my first locally cloned repo
